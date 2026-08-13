@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TrucoScoreBoard</string>
+    <string name="truco_score_board">Truco Score Board</string>
+    <string name="_3">+3</string>
+    <string name="_1">+1</string>
+    <string name="timeA">Time A</string>
+    <string name="timeB">Time B</string>
 </resources>
