@@ -115,4 +115,15 @@
         app:layout_constraintEnd_toEndOf="@id/btn3TimeB"
         app:layout_constraintStart_toStartOf="@id/btn3TimeB"
         app:layout_constraintTop_toBottomOf="@id/btn1TimeB" />
+
+    <Button
+        android:id="@+id/btnReiniciarJogo"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="8dp"
+        android:text="@string/reiniciar_partida"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
